@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 1 Solution 1
+ *  UCF COP3330 Fall 2021 Assignment 1 Challenge Solution 1
  *  Copyright 2021 Zander Preston
  */
 
@@ -16,7 +16,7 @@ package exercises.challenges;
 
 import java.util.Scanner;
 
-public class challenge01 {
+public class Challenge01 {
     public static String getName() { //Statement 1: Getting the user's name
         return new Scanner(System.in).nextLine();
     }
@@ -29,7 +29,5 @@ public class challenge01 {
 
         System.out.println("What is your name?"); //Prompt the user for their name
         System.out.println(concat()); //Statement 3: Outputting the greeting.
-
-
     }
 }
