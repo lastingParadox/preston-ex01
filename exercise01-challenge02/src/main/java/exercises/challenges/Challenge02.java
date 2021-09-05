@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 1 Challenge Solution 2
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution Challenge 2
  *  Copyright 2021 Zander Preston
  */
 
@@ -23,6 +23,8 @@ package exercises.challenges;
             "No pirates allowed in my program, Jack Sparrow. Savvy?"
         Gibbs:
             "Slap me thrice and hand me to me mama. It's Gibbs!"
+        Orb:
+            "Orb? That's your name?"
         Omni-Man:
             "Omni-man, why did you make me do this? You're staying in my head so you can infiltrate my program!"
         Else:

@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 1 Challenge Solution 1
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution Challenge 1
  *  Copyright 2021 Zander Preston
  */
 
